@@ -14,3 +14,11 @@
 <p align="left">Pertama Pilih Download Yang ada di gambar Dibawah ini :</p>
 <img src="img/download-page.jpg" width="1366" height="500">
 <p align="left">setelah kalian mendownloadnya silahkan run installernya, lakukan next, next, next saja! setelah itu kalian akan melihat di bagian windows kalian sudah terinstall XAMPP, Jika sudah berhasil, Selamat kamu sudah berhasil mendownload XAMPP :D</p>
+<br><br>
+<h2 align="center">Code Editor</h2>
+<p align="left">apa itu Code Editor ? Code Editor adalah sebuah Tools untuk menulis sebuah kode yang bertujuan untuk membuat Software, banyak pilihan Software code editor, salah satunya adalah Visual Studio Code, Sublime Text, Atom, Dsb!</p>
+<p align="left">Pilihan Code Editor :</p>
+<p align="left">- Sublime Text (https://www.sublimetext.com/download)[Download]</p>
+<p align="left">Pilihan Code Editor :</p>
+<p align="left">Pilihan Code Editor :</p>
+<p align="left">Pilihan Code Editor :</p>
