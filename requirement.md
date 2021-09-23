@@ -6,6 +6,7 @@
 <P align="left">- XAMPP</P>
 <P align="left">- Code Editor</P>
 <P align="left">- GitHub Account (Optional)</P>
+<P align="left">- Computer :V</P>
 <P align="left">- More</P>
 <br><br>
 <h3 align="left">Persyaratan  :</h3>
