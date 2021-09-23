@@ -13,3 +13,4 @@
 <p align="left">pertama pergi kelaman ini : <a href="https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a></p>
 <p align="left">Pertama Pilih Download Yang ada di gambar Dibawah ini :</p>
 <img src="img/download-page.jpg" width="1366" height="500">
+<p align="left">setelah kalian mendownloadnya silahkan run installernya, lakukan next, next, next saja! setelah itu kalian akan melihat di bagian windows kalian sudah terinstall XAMPP, Jika sudah berhasil, Selamat kamu sudah berhasil mendownload XAMPP :D</p>
