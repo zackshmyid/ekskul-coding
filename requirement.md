@@ -6,7 +6,7 @@
 <P align="left">- XAMPP</P>
 <P align="left">- Code Editor</P>
 <P align="left">- GitHub Account (Optional)</P>
-<P align="left">- Semangat Yang kuat :D</P>
+<P align="left">- More</P>
 <br><br>
 <h3 align="left">Persyaratan  :</h3>
 <p align="left">Yang kalian harus kalian penuhi adalah :</p>
