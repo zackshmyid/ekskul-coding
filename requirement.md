@@ -18,7 +18,9 @@
 <h2 align="center">Code Editor</h2>
 <p align="left">apa itu Code Editor ? Code Editor adalah sebuah Tools untuk menulis sebuah kode yang bertujuan untuk membuat Software, banyak pilihan Software code editor, salah satunya adalah Visual Studio Code, Sublime Text, Atom, Dsb!</p>
 <p align="left">Pilihan Code Editor :</p>
-<p align="left">- Sublime Text (https://www.sublimetext.com/download)[Download]</p>
-<p align="left">Pilihan Code Editor :</p>
-<p align="left">Pilihan Code Editor :</p>
-<p align="left">Pilihan Code Editor :</p>
+<p align="left">- Sublime Text : https://www.sublimetext.com/download (Writer Recommendation)</p>
+<p align="left">- Visual Studio Code : https://code.visualstudio.com/Download</p>
+<p align="left">Atom By GitHub : https://atom.io/</p>
+<p align="left">Intellij IDEA Community Edition : https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC</p>
+<p align="left">Kite : https://www.kite.com/</p>
+<p align="left">Dan sebagainya (Ingin menambahkan list Code Editor ? Fork Repo ini dan writer akan melakukan merge)</p>
