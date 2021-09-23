@@ -8,6 +8,13 @@
 <P align="left">- GitHub Account (Optional)</P>
 <P align="left">- Semangat Yang kuat :D</P>
 <br><br>
+<h3 align="left">Persyaratan  :</h3>
+<p align="left">Yang kalian harus kalian penuhi adalah :</p>
+<P align="left">- Windows 7+</P>
+<P align="left">- RAM 2GB+</P>
+<P align="left">- Disk 20GB+</P>
+<P align="left">- Administrator Access</P>
+<br><br>
 <h3 align="left">Tutorial Cara Instalasi Dan Penggunaan XAMPP :</h3>
 <p align="left">Apa Sih XAMPP itu ? XAMPP adalah sebuah paket perangkat lunak (software) komputer yang sistem penamaannya diambil dari akronim kata Apache, MySQL (dulu) / MariaDB (sekarang), PHP, dan Perl.</p>
 <p align="left">pertama pergi kelaman ini : <a href="https://www.apachefriends.org/download.html">https://www.apachefriends.org/download.html</a></p>
