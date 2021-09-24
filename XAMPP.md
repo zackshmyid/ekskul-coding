@@ -13,5 +13,8 @@
 <h3 align="left">Bagaimana cara Menggunakan XAMPP ?</h3>
 <p>Klik pada windows kalian, Lalu carilah Aplikasi ini</p>
 <img src="img/xampp-2.jpg">
-<p>lalu setelah itu klik pada 2 tombol yang ada di gambar bawah ini (Jika kalian tidak bisa membuka gambar klik </p>
+<p>lalu setelah itu klik pada 2 tombol yang ada di gambar bawah ini (Jika kalian tidak bisa membuka gambar ,klik Start Apache Dan Start MySQL)</p>
 <img src="img/xampp.png">
+<p>Jika kalian sudah menyalakan kedua hal tersebut coba cek di <a href="http://localhost">http://localhost</a> apakah kalian sudah melihat pada gamber seperti ini atau belum</p>
+<img src="img/sucess.png">
+<p>apabila kalian sudah melihat / berhasil masuk ke localhost..selamat kamu sudah berhasil instalasi XAMPPM, jika belum silahkan troubleshoot dengan guru atau Whatasapp Writer Untuk mendapat bantuan :D</p>
