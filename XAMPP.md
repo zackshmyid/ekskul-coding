@@ -13,3 +13,5 @@
 <h3 align="left">Bagaimana cara Menggunakan XAMPP ?</h3>
 <p>Klik pada windows kalian, Lalu carilah Aplikasi ini</p>
 <img src="img/xampp-2.jpg">
+<p>lalu setelah itu klik pada 2 tombol yang ada di gambar bawah ini (Jika kalian tidak bisa membuka gambar klik </p>
+<img src="img/xampp.png">
