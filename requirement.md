@@ -13,7 +13,7 @@
 <p align="left">Yang kalian harus kalian penuhi adalah :</p>
 <P align="left">- Windows 7+</P>
 <P align="left">- RAM 2GB+</P>
-<P align="left">- Disk 20GB+</P>
+<P align="left">- Disk 3GB+</P>
 <P align="left">- Administrator Access</P>
 <br><br>
 <h3 align="left">Tutorial Cara Instalasi Dan Penggunaan XAMPP :</h3>
